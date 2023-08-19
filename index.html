@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;0,600;0,700;1,500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home">
+      <section class="hello-im-a-container">
+        <p class="hello-im-a">Hello, I`m a</p>
+        <p class="hello-im-a">Harsh pandey</p>
+        <p class="uxui-designer">
+          <b>UX/UI Designer </b>
+        </p>
+      </section>
+      <section class="frame-parent">
+        <div class="frame-wrapper">
+          <div class="portfolio-parent">
+            <div class="portfolio">Portfolio</div>
+            <img class="frame-child" alt="" src="./public/arrow-1.svg" />
+          </div>
+        </div>
+        <div class="frame-container">
+          <div class="hire-me-parent">
+            <h2 class="hire-me">Hire me</h2>
+            <img class="frame-item" alt="" src="./public/arrow-11.svg" />
+          </div>
+        </div>
+      </section>
+      <i class="the-life-of"
+        >“The life of a designer is a constant struggle. Fight against ugliness.
+        Just like a doctor fights a disease. For us, visual disease is what we
+        have around us, and what we are trying to do is, one way or another,
+        cure the environment through design.”</i
+      >
+      <div class="portfolio-group">
+        <b class="portfolio1">Portfolio</b>
+        <div class="dribbble-1-parent">
+          <img
+            class="dribbble-1-icon"
+            alt=""
+            src="./public/dribbble-1@2x.png"
+          />
+
+          <div class="app-design">App Design</div>
+        </div>
+        <div class="dribbble-1-group">
+          <img
+            class="dribbble-1-icon"
+            alt=""
+            src="./public/dribbble-11@2x.png"
+          />
+
+          <div class="app-design">Web Design</div>
+        </div>
+        <div class="dribbble-1-container">
+          <img
+            class="dribbble-1-icon"
+            alt=""
+            src="./public/dribbble-12@2x.png"
+          />
+
+          <div class="app-design">Browse Service</div>
+        </div>
+      </div>
+      <img class="home-child" alt="" src="./public/rectangle-51.svg" />
+
+      <div class="based-in-india-parent">
+        <div class="based-in-india">Based in India</div>
+        <div class="gmailcom">@gmail.com</div>
+        <div class="div">9372551710</div>
+      </div>
+      <div class="social-media-parent">
+        <div class="social-media">Social media</div>
+        <div class="linkedin-parent">
+          <div class="based-in-india">LinkedIn</div>
+          <div class="facebook">Facebook</div>
+          <div class="instagram">Instagram</div>
+        </div>
+      </div>
+      <div class="frame">
+        <div class="title">Home</div>
+        <div class="title1" id="titleText1">About me</div>
+        <div class="title2" id="titleText2">My Portfolio</div>
+        <div class="title3" id="titleText3">Contact Us</div>
+      </div>
+    </div>
+
+    <script>
+      var titleText1 = document.getElementById("titleText1");
+      if (titleText1) {
+        titleText1.addEventListener("click", function (e) {
+          window.location.href = "./AboutMe.html";
+        });
+      }
+      
+      var titleText2 = document.getElementById("titleText2");
+      if (titleText2) {
+        titleText2.addEventListener("click", function (e) {
+          window.location.href = "./MyPortfolio.html";
+        });
+      }
+      
+      var titleText3 = document.getElementById("titleText3");
+      if (titleText3) {
+        titleText3.addEventListener("click", function (e) {
+          window.location.href = "./MyPortfolio.html";
+        });
+      }
+      </script>
+  </body>
+</html>

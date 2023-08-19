@@ -1,0 +1,275 @@
+.hello-im-a {
+  margin: 0;
+  font-weight: 500;
+}
+.uxui-designer {
+  margin: 0;
+}
+.hello-im-a-container {
+  position: absolute;
+  top: 355px;
+  left: 43px;
+  font-size: 36px;
+  color: var(--sec-white);
+  text-align: left;
+  display: inline-block;
+  width: 289px;
+  height: 158px;
+  font-family: var(--font-jost);
+}
+.portfolio {
+  position: absolute;
+    top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.frame-child {
+  position: absolute;
+  top: 9.48px;
+  left: 168.1px;
+  width: 59.47px;
+  height: 11.05px;
+  background-color: blue;
+}
+.frame-wrapper,
+.portfolio-parent {
+  position: absolute;
+  top: 15px;
+  left: 31.09px;
+  width: 226.82px;
+  height: 29px;
+}
+.frame-wrapper {
+  top: 80px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #5a4646;
+  width: 289px;
+  height: 60px;
+}
+.hire-me {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frame-item {
+  position: absolute;
+  top: 9.48px;
+  left: 168px;
+  width: 59.75px;
+  height: 11.05px;
+}
+.frame-container,
+.hire-me-parent {
+  position: absolute;
+  top: 15px;
+  left: 31px;
+  width: 227px;
+  height: 29px;
+}
+.frame-container {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #7996fc;
+  box-shadow: 0 0 15px rgba(121, 150, 252, 0.15);
+  width: 289px;
+  height: 60px;
+}
+.frame-parent {
+  top: 526px;
+  left: 43px;
+  width: 289px;
+  height: 140px;
+  font-size: var(--font-size-xl);
+  color: var(--sec-white);
+  font-family: var(--font-jost);
+}
+.frame-parent,
+.portfolio1,
+.the-life-of {
+  position: absolute;
+  text-align: left;
+}
+.the-life-of {
+  top: 687px;
+  left: 68px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-weight: 500;
+  width: 289px;
+  height: 60px;
+}
+.portfolio1 {
+  top: 0;
+  left: 0;
+}
+.dribbble-1-icon {
+  top: 0;
+  border-radius: var(--br-mini);
+  height: 203px;
+  object-fit: cover;
+}
+.app-design,
+.dribbble-1-icon,
+.dribbble-1-parent {
+  position: absolute;
+  left: 0;
+  width: 288px;
+}
+.app-design {
+  top: 223px;
+  font-weight: 600;
+  display: inline-block;
+}
+.dribbble-1-parent {
+  top: 70px;
+  height: 263px;
+}
+.dribbble-1-container,
+.dribbble-1-group,
+.portfolio-group {
+  position: absolute;
+  top: 700px;
+  left: 0;
+  width: 288px;
+  height: 263px;
+}
+.dribbble-1-container,
+.portfolio-group {
+  top: 385px;
+}
+.portfolio-group {
+  top: 1006px;
+  left: 32px;
+  height: 963px;
+  font-size: var(--font-size-9xl);
+}
+.home-child {
+  position: absolute;
+  top: 2553px;
+  left: 0;
+  width: 375px;
+  height: 1px;
+}
+.based-in-india,
+.gmailcom {
+  left: 0;
+  display: inline-block;
+}
+.based-in-india {
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+.gmailcom {
+  top: 165px;
+}
+.based-in-india-parent,
+.div,
+.gmailcom {
+  position: absolute;
+  width: 375px;
+}
+.div {
+  top: 100px;
+  left: 0;
+  display: inline-block;
+}
+.based-in-india-parent {
+  top: 2053px;
+  left: -11px;
+  height: 200px;
+}
+.social-media {
+  position: absolute;
+  top: 0;
+  left: 120px;
+  font-weight: 500;
+}
+.facebook {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  display: inline-block;
+  width: 368px;
+}
+.instagram,
+.linkedin-parent {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.instagram {
+  top: 112px;
+  display: inline-block;
+}
+.linkedin-parent {
+  top: 65px;
+  height: 138px;
+  font-size: var(--font-size-lg);
+  color: var(--sec-gray);
+}
+.social-media-parent {
+  position: absolute;
+  top: 2315px;
+  left: 0;
+  width: 375px;
+  height: 203px;
+}
+.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 16px;
+}
+.title1,
+.title2 {
+  top: 0;
+  line-height: 16px;
+  cursor: pointer;
+}
+.title1 {
+  position: absolute;
+  left: 67px;
+}
+.title2 {
+  left: 229px;
+}
+.frame,
+.title2,
+.title3 {
+  position: absolute;
+}
+.title3 {
+  top: 0;
+  left: 153px;
+  line-height: 16px;
+  cursor: pointer;
+}
+.frame {
+  top: 13px;
+  left: 59px;
+  width: 306px;
+  height: 16px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gainsboro);
+  font-family: var(--font-roboto);
+}
+.home {
+  position: relative;
+  background-color: var(--main-black);
+  width: 100%;
+  height: 800px;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--sec-white);
+  font-family: var(--font-jost);
+}
