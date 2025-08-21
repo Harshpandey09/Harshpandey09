@@ -73,34 +73,6 @@ Software developer & junior data scientist based in Mumbai. I build elegant full
 
 ---
 
-## 💼 Experience
-- **Junior Data Scientist Intern** — SEJKOM IT LOGISTICS LLP (Mar 2025 – Jun 2025)  
-  Built predictive ML models that increased forecast accuracy by **20%**, improving route & inventory planning.
-
-- **Software Developer Intern** — RP IT Solutions (Nov 2024 – Feb 2025)  
-  Delivered full‑stack features in React + REST APIs; collaborated on API design and frontend UX.
-
-- **Web Content Management Intern** — Infidigit (Mar 2023 – Apr 2023)  
-  Managed WordPress content, Google Search Console workflows and off‑page SEO.
-
----
-
-## 🎓 Education
-- Shree L.R. Tiwari College of Technology — B.E., Electronic & Computer Engineering (2024 – 2027)  
-- VIVA College of Polytechnic — Diploma, Computer Engineering (2020 – 2023)
-
----
-
-## ✅ Certifications & Events
-- React JS — Udemy  
-- Data Analytics & Visualization — Accenture  
-- Python Programming — Udemy  
-- SQL Fundamentals — Udemy
-
-- Participated: Google Build & Blog Marathon (Mumbai)  
-- Attended: AWS Summit Mumbai 2025
-
----
 
 ## 📫 Contact
 - Phone: +91 7977564472  
